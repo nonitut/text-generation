@@ -1,1 +1,1 @@
-# text-generation
+# Шаблон 
